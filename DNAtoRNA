@@ -1,0 +1,4 @@
+function DNAtoRNA(dna){
+//replace all global instances of 'T' with 'U'. Did not get solution originally. Declared a new function when unecessary. Also used double quotes but had the right idea.
+  return dna.replace(/T/g, 'U');
+}
