@@ -1,0 +1,4 @@
+function find_average(arr) {
+    return arr.length > 0? arr.reduce((a, b) => a + b) / arr.length : 0;
+}
+//several ways to do this one. This was shortest and made sure 0 would return if empty. 
