@@ -1,0 +1,2 @@
+const check = (a,x) => a.includes(x);
+//check if a contains x. Made mistake of doing return a.includes('x') and then not using arrow function
