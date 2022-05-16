@@ -1,0 +1,6 @@
+function past(h, m, s){
+  
+  let milliTime = (h*3600000)+(m*60000)+(s*1000)
+   return milliTime
+  //created a variable using multipliers from sec, min and hrs and added them to get time since 00:00:00 in milliseconds
+}
