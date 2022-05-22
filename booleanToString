@@ -1,0 +1,5 @@
+function booleanToString(b){
+  return b.toString();
+}
+
+//use the to string method
