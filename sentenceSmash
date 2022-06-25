@@ -1,0 +1,5 @@
+smash = function (words) {
+  return words.join(" ");
+};
+
+// use join method to take an array and make it a sentence, account for space by using " "
